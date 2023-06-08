@@ -1,4 +1,2 @@
 #!/ban/bash
-for file in *; do
-chown vincent:staff $file
-done
+chown vicent:staff *
