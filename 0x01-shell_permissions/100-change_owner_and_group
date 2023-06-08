@@ -1,2 +1,2 @@
-#!/ban/bash
-chown -R  vicent:staff
+#!/bin/bash
+chown -R  vicent:staff .
